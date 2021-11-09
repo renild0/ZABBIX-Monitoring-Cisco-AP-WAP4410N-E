@@ -1,5 +1,6 @@
 # ZABBIX-Monitoring-Cisco-AP-WAP4410N-E
 Tested on Zabbix 4.0.x
+SNMP Agent
 
 Cisco Small Business Access Point Monitoring Template
 
